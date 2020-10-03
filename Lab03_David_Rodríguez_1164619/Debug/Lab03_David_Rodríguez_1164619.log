@@ -1,0 +1,11 @@
+﻿  Cargar.cpp
+D:\darcz\Documents\D.Word\PROGRA A\Programas\Lab03_David_Rodríguez_1164619\List.h(1,10): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+  Instrucciones.cpp
+  Menú.cpp
+D:\darcz\Documents\D.Word\PROGRA A\Programas\Lab03_David_Rodríguez_1164619\List.h(1,10): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+D:\darcz\Documents\D.Word\PROGRA A\Programas\Lab03_David_Rodríguez_1164619\Menú.cpp(8,15): warning C4551: la llamada a la función no tiene lista de argumentos
+  MyForm.cpp
+D:\darcz\Documents\D.Word\PROGRA A\Programas\Lab03_David_Rodríguez_1164619\List.h(1,10): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+  Generando código...
+  Cargar.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  Lab03_David_Rodríguez_1164619.vcxproj -> D:\darcz\Documents\D.Word\PROGRA A\Programas\Lab03_David_Rodríguez_1164619\Debug\Lab03_David_Rodríguez_1164619.exe

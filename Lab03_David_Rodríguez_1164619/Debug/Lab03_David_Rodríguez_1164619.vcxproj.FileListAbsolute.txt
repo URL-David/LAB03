@@ -1,0 +1,8 @@
+D:\darcz\Documents\D.Word\PROGRA A\Programas\Lab03_David_Rodríguez_1164619\Debug\Lab03_David_Rodríguez_1164619.vcxprojAssemblyReference.cache
+D:\darcz\Documents\D.Word\PROGRA A\Programas\Lab03_David_Rodríguez_1164619\Debug\Lab03_David_Rodríguez_1164619.exe
+D:\darcz\Documents\D.Word\PROGRA A\Programas\Lab03_David_Rodríguez_1164619\Debug\Lab03_David_Rodríguez_1164619.pdb
+D:\darcz\Documents\D.Word\PROGRA A\Programas\Lab03_David_Rodríguez_1164619\Debug\Lab03DavidRodríguez1164619.MyForm.resources
+D:\darcz\Documents\D.Word\PROGRA A\Programas\Lab03_David_Rodríguez_1164619\Debug\Lab03_David_Rodríguez_1164619.vcxproj.GenerateResource.cache
+D:\darcz\Documents\D.Word\PROGRA A\Programas\Lab03_David_Rodríguez_1164619\Debug\Lab03DavidRodríguez1164619.Menú.resources
+D:\darcz\Documents\D.Word\PROGRA A\Programas\Lab03_David_Rodríguez_1164619\Debug\Lab03DavidRodríguez1164619.Instrucciones.resources
+D:\darcz\Documents\D.Word\PROGRA A\Programas\Lab03_David_Rodríguez_1164619\Debug\Lab03DavidRodríguez1164619.Cargar.resources
